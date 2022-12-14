@@ -1,59 +1,59 @@
-County_Name,FIPS_State,FIPS_County,Rural_Status,Language spoken at home (Spanish) (DP02_0116E),Language spoken at home (Spanish) - Percent (DP02_0116PE),State_Name,Abbreviation
-Alameda County,06,001,Urban,250597,16.0,California,CA
-Alpine County,06,003,Rural,110,10.1,California,CA
-Butte County,06,007,Urban,21187,10.0,California,CA
-Colusa County,06,011,Rural,9998,50.2,California,CA
-Contra Costa County,06,013,Urban,195737,18.1,California,CA
-El Dorado County,06,017,Urban,10670,5.9,California,CA
-Fresno County,06,019,Urban,311415,34.1,California,CA
-Humboldt County,06,023,Rural,9872,7.7,California,CA
-Imperial County,06,025,Urban,122197,73.6,California,CA
-Kern County,06,029,Urban,318679,38.7,California,CA
-Kings County,06,031,Urban,51733,37.1,California,CA
-Lassen County,06,035,Rural,4561,15.6,California,CA
-Madera County,06,039,Urban,60521,41.9,California,CA
-Marin County,06,041,Urban,28387,11.5,California,CA
-Mariposa County,06,043,Rural,1172,7.1,California,CA
-Mendocino County,06,045,Rural,15722,19.1,California,CA
-Merced County,06,047,Urban,110652,43.8,California,CA
-Modoc County,06,049,Rural,911,10.9,California,CA
-Monterey County,06,053,Urban,194372,48.3,California,CA
-Napa County,06,055,Urban,34955,26.5,California,CA
-Nevada County,06,057,Rural,4754,5.0,California,CA
-Orange County,06,059,Urban,732305,24.5,California,CA
-Placer County,06,061,Urban,23025,6.2,California,CA
-Plumas County,06,063,UrbanUrban,936,5.2,California,CA
-Riverside County,06,065,Urban,779766,34.2,California,CA
-Sacramento County,06,067,Urban,191531,13.3,California,CA
-San Benito County,06,069,Urban,21647,37.7,California,CA
-San Bernardino County,06,071,Urban,689338,34.3,California,CA
-San Diego County,06,073,Urban,753804,24.2,California,CA
-San Francisco County,06,075,Urban,88425,10.6,California,CA
-San Joaquin County,06,077,Urban,180852,25.9,California,CA
-San Luis Obispo County,06,079,Urban,34232,12.7,California,CA
-San Mateo County,06,081,Urban,129498,17.9,California,CA
-Santa Clara County,06,085,Urban,313180,17.3,California,CA
-Santa Cruz County,06,087,Urban,66868,25.8,California,CA
-Sierra County,06,091,Rural,217,7.8,California,CA
-Solano County,06,095,Urban,68707,16.4,California,CA
-Sonoma County,06,097,Urban,94658,20.0,California,CA
-Sutter County,06,101,Urban,18542,20.6,California,CA
-Tehama County,06,103,Rural,10729,17.8,California,CA
-Tulare County,06,107,Urban,201625,47.2,California,CA
-Tuolumne County,06,109,Rural,2566,5.0,California,CA
-Yolo County,06,113,Urban,43697,21.1,California,CA
-Yuba County,06,115,Urban,12762,17.9,California,CA
-Mono County,06,051,Rural,2484,18.1,California,CA
-Amador County,06,005,Rural,2477,6.6,California,CA
-Calaveras County,06,009,Rural,2320,5.3,California,CA
-Del Norte County,06,015,Rural,1952,7.5,California,CA
-Glenn County,06,021,Rural,9347,35.9,California,CA
-Inyo County,06,027,Rural,2232,13.0,California,CA
-Lake County,06,033,Rural,8320,13.7,California,CA
-Los Angeles County,06,037,Urban,3657846,38.7,California,CA
-Santa Barbara County,06,083,Urban,139023,33.3,California,CA
-Shasta County,06,089,Urban,7811,4.6,California,CA
-Siskiyou County,06,093,UrbanUrban,2867,6.9,California,CA
-Stanislaus County,06,099,Urban,170307,33.6,California,CA
-Trinity County,06,105,Rural,297,2.5,California,CA
-Ventura County,06,111,Urban,238573,30.0,California,CA
+County_Name,FIPS_State,FIPS_County,FIPS_Code_Full,Rural_Status,Language spoken at home (Spanish) (DP02_0116E),Language spoken at home (Spanish) - Percent (DP02_0116PE),State_Name,State_Abbreviation
+Alameda County,06,001,06001,Urban,250597,16.0,California,CA
+Alpine County,06,003,06003,Rural,110,10.1,California,CA
+Butte County,06,007,06007,Urban,21187,10.0,California,CA
+Colusa County,06,011,06011,Rural,9998,50.2,California,CA
+Contra Costa County,06,013,06013,Urban,195737,18.1,California,CA
+El Dorado County,06,017,06017,Urban,10670,5.9,California,CA
+Fresno County,06,019,06019,Urban,311415,34.1,California,CA
+Humboldt County,06,023,06023,Rural,9872,7.7,California,CA
+Imperial County,06,025,06025,Urban,122197,73.6,California,CA
+Kern County,06,029,06029,Urban,318679,38.7,California,CA
+Kings County,06,031,06031,Urban,51733,37.1,California,CA
+Lassen County,06,035,06035,Rural,4561,15.6,California,CA
+Madera County,06,039,06039,Urban,60521,41.9,California,CA
+Marin County,06,041,06041,Urban,28387,11.5,California,CA
+Mariposa County,06,043,06043,Rural,1172,7.1,California,CA
+Mendocino County,06,045,06045,Rural,15722,19.1,California,CA
+Merced County,06,047,06047,Urban,110652,43.8,California,CA
+Modoc County,06,049,06049,Rural,911,10.9,California,CA
+Monterey County,06,053,06053,Urban,194372,48.3,California,CA
+Napa County,06,055,06055,Urban,34955,26.5,California,CA
+Nevada County,06,057,06057,Rural,4754,5.0,California,CA
+Orange County,06,059,06059,Urban,732305,24.5,California,CA
+Placer County,06,061,06061,Urban,23025,6.2,California,CA
+Plumas County,06,063,06063,Rural,936,5.2,California,CA
+Riverside County,06,065,06065,Urban,779766,34.2,California,CA
+Sacramento County,06,067,06067,Urban,191531,13.3,California,CA
+San Benito County,06,069,06069,Urban,21647,37.7,California,CA
+San Bernardino County,06,071,06071,Urban,689338,34.3,California,CA
+San Diego County,06,073,06073,Urban,753804,24.2,California,CA
+San Francisco County,06,075,06075,Urban,88425,10.6,California,CA
+San Joaquin County,06,077,06077,Urban,180852,25.9,California,CA
+San Luis Obispo County,06,079,06079,Urban,34232,12.7,California,CA
+San Mateo County,06,081,06081,Urban,129498,17.9,California,CA
+Santa Clara County,06,085,06085,Urban,313180,17.3,California,CA
+Santa Cruz County,06,087,06087,Urban,66868,25.8,California,CA
+Sierra County,06,091,06091,Rural,217,7.8,California,CA
+Solano County,06,095,06095,Urban,68707,16.4,California,CA
+Sonoma County,06,097,06097,Urban,94658,20.0,California,CA
+Sutter County,06,101,06101,Urban,18542,20.6,California,CA
+Tehama County,06,103,06103,Rural,10729,17.8,California,CA
+Tulare County,06,107,06107,Urban,201625,47.2,California,CA
+Tuolumne County,06,109,06109,Rural,2566,5.0,California,CA
+Yolo County,06,113,06113,Urban,43697,21.1,California,CA
+Yuba County,06,115,06115,Urban,12762,17.9,California,CA
+Mono County,06,051,06051,Rural,2484,18.1,California,CA
+Amador County,06,005,06005,Rural,2477,6.6,California,CA
+Calaveras County,06,009,06009,Rural,2320,5.3,California,CA
+Del Norte County,06,015,06015,Rural,1952,7.5,California,CA
+Glenn County,06,021,06021,Rural,9347,35.9,California,CA
+Inyo County,06,027,06027,Rural,2232,13.0,California,CA
+Lake County,06,033,06033,Rural,8320,13.7,California,CA
+Los Angeles County,06,037,06037,Urban,3657846,38.7,California,CA
+Santa Barbara County,06,083,06083,Urban,139023,33.3,California,CA
+Shasta County,06,089,06089,Urban,7811,4.6,California,CA
+Siskiyou County,06,093,06093,Rural,2867,6.9,California,CA
+Stanislaus County,06,099,06099,Urban,170307,33.6,California,CA
+Trinity County,06,105,06105,Rural,297,2.5,California,CA
+Ventura County,06,111,06111,Urban,238573,30.0,California,CA
